@@ -1,0 +1,37 @@
+@font-face {
+	font-family:'Yekan';
+	src:url('font/Yekan.eot?#') format('eot'),url('font/Yekan.woff') format('woff'),url('font/Yekan.svg') format('svg'),url('font/Yekan.ttf') format('truetype')
+}
+@font-face {
+	font-family:'BwebYekan';
+	src:url('font/YekanWeb.woff') format('woff')
+}
+* {font-family:'BwebYekan', Yekan;direction:rtl;}
+header .member-actions {left: 0;right:auto;}
+header .member-actions li {
+    margin-right: 25px;
+}
+header ul.primary-nav li:last-child {
+    margin-right: 25px;
+}
+.col-md-4 .intro-content {
+    margin-right: 8px;
+}
+.features .feature-icon {margin-left: 20px;}
+.testimonial-slider ,.testimonial-slider div , .testimonial-slider a , .testimonial-slider span , .testimonial-slider ol , .testimonial-slider ul , .testimonial-slider li{direction:ltr !important;}
+.sign-up .signup-form  i {
+    left: 0px;
+}
+.sign-up .signup-form .form-input-group input {
+    padding-right: 15px;
+    padding-left: 0px;
+    line-height: 26px;
+}
+footer p , footer p a {
+    text-align: left;
+    font-family: "tahoma";
+}
+.inlines {
+    direction: ltr;
+    font-family: "tahoma";
+}
