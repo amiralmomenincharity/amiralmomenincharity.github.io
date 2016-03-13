@@ -347,7 +347,7 @@ Navigation
 Hero
 ========================================================================== */
 .hero {
-  min-height: 750px;
+  min-height: 600px;
   background: url("../img/hero.jpg") center center;
   background-size: cover;
   position: relative; }
@@ -447,7 +447,7 @@ Intro
 
 .intro-content {
   display: inline-block;
-  width: 80%; }
+  width: 100%; }
 
 /* ==========================================================================
 Features-stack
@@ -523,9 +523,9 @@ Features-stack
     margin-top: 20px; }
   .features-extra .macbook-wrap {
     position: absolute;
-    width: 916px;
-    height: 540px;
-    background: url("../img/macbook-pro.png") no-repeat center center;
+    width: 800px;
+    height: 800px;
+    background: url("../img/img-2.png") no-repeat center center;
     top: 114px;
     z-index: 4;
     left: 50%; }
@@ -534,7 +534,6 @@ Features-stack
 .hero-strip
 ========================================================================== */
 .hero-strip {
-  margin-top: 120px;
   background: #333844 url("../img/polygonal-bg.jpg") no-repeat center center;
   padding-bottom: 190px;
   position: relative; }
@@ -819,7 +818,7 @@ footer {
     footer .social-share a i {
       margin-top: 20px; }
   footer .footer-links {
-    margin: 120px 0 120px 0; }
+    margin: 60px 0 60px 0; }
 
 /* ==========================================================================
 Icon font (http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)
